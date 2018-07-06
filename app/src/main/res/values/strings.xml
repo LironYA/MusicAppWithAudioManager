@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="disney_name">Disney Songs</string>
+    <string name="classic_name">Classic Songs</string>
+    <string name="welcome">Welcome to the MusicApp! \n Please choose your category</string>
+    <string name="playing">Now Playing</string>
+    <string name="emma">Emma Shapplin - Carmine Meo</string>
+    <string name="emma_playing">Now playing: Emma Shapplin - Carmine Meo</string>
+    <string name="queen">Queen - Bohemian Rhapsody</string>
+    <string name="queen_playing">Now playing: Queen - Bohemian Rhapsody</string>
+    <string name="verve">The Verve - Bitter Sweet Symphony</string>
+    <string name="verve_playing">Now playing: The Verve - Bitter Sweet Symphony</string>
+    <string name="moana">Disney\'s Moana</string>
+    <string name="moana_playing">Now playing - Disney\'s Moana</string>
+    <string name="mermaid">Disney\'s The little mermaid</string>
+    <string name="mermaid_playing">Now playing - Disney\'s The little mermaid</string>
+    <string name="lionking">Disney\'s Lion king</string>
+    <string name="lionking_playing">Now playing - Disney\'s Lion king</string>
+</resources>
